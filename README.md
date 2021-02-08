@@ -1,11 +1,11 @@
-# Giuseppe Campanelli &mdash; @themilanfan
+# Giuseppe Campanelli &mdash; @giuseppecampanelli
 
 ## 😎 About Me
-I am an Online Programmer at Ubisoft Montreal. As a member of Ubisoft Harbour, I am developing tools to be able to provide high quality connected experiences to players worldwide. I enjoy working with Java, C#, Python, Vue.js, Docker, Continuous Integration, and REST APIs. I am always curious and enjoy learning and keeping up with new technologies, frameworks, and libraries.
+I am an Online Programmer at Ubisoft Montreal. With focus on online services, I am developing tools to facilite the integration and deployment of various services and internal tools. I enjoy working with Java, C#, Vue.js, Nuxt.js, Docker, GitLab CI, and REST APIs. I am always curious and enjoy learning and keeping up with new technologies, frameworks, and libraries.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=themilanfan&show_icons=true&hide=stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=giuseppecampanelli&show_icons=true&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themilanfan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppecampanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📝 Medium Writer &mdash; [@giuseppecampanelli](https://medium.com/@giuseppecampanelli)
@@ -16,4 +16,4 @@ I am a writer for the publication *JavaScript in Plain English*. I enjoy learnin
 
 ## 📮 Get In Touch
 - Medium: https://medium.com/@giuseppecampanelli
-- LinkedIn: https://www.linkedin.com/in/giuseppe-campanelli/
+- LinkedIn: https://www.linkedin.com/in/giuseppecampanelli/
